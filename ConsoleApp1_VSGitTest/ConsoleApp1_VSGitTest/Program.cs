@@ -11,6 +11,7 @@ namespace ConsoleApp1_VSGitTest
         static void Main(string[] args)
         {
             //code was edited in github
+            //code was added in visual studio
         }
     }
 }
