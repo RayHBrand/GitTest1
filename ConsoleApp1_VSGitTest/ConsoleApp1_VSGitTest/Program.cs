@@ -12,6 +12,8 @@ namespace ConsoleApp1_VSGitTest
         {
             //code was edited in github
             //code was added in visual studio
+
+            //code to call Feature1
         }
     }
 }
