@@ -10,7 +10,7 @@ namespace ConsoleApp1_VSGitTest
     {
         static void Main(string[] args)
         {
-            //code was added in github
+            //code was edited in github
         }
     }
 }
